@@ -8,14 +8,12 @@
 .border{ border: 30px solid}
 .nav {
     overflow: hidden;
-    background-color: rgb(240, 240, 250);
-}
+}   
+    
 .nav a {
     color:rgb(11, 8, 156);
-    
-    
     padding: 14px 16px bold;
-    margin: auto 50px;
+    margin: auto 30px;
     font-weight: bold;
     font-size: 20px;
 }
@@ -28,52 +26,20 @@
     
     
 }
+.logo{
 
-
-
-
-
-
-
- 
-    
-
+}
 
 .titulo1{
     text-align: center;
     margin: 25px 0 ;
 }
 
-.logo{ 
-    grid-area: auto;
-    height: 80px;
-    width: 130px;
+
        
-    }
+    
 
-.minist{
-   background-image: url(../assets/img/ministerioind.jpg);
-   
-   background-size: cover;
-   height: 290px;
-   background-position: 80%;
 
-}
-
-.minist h3, .minist p{ 
-    color: whitesmoke;
-text-align: center;
-}
-
-.minist h3{
-    font-weight: 400;
-    font-size: 50px;
-}
-
-.minist p{
-    font-weight: 350;
-    font-size: 30px;
-}
 
 section p{
     padding: 10px;

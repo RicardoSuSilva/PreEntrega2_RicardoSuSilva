@@ -34,6 +34,12 @@ ul li a{
     color: rgb(11, 8, 156);
 }
 
+nav a:hover{
+    
+    background-color: rgb(32, 238, 221);
+    text-decoration: underline;
+    padding; 20px;
+}
 .titulo1{
     text-align: center;
     margin: 25px 0 ;
