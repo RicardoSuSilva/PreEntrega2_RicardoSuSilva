@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+
+
+.border{ border: 30px solid}
+.nav {
+    overflow: hidden;
+    background-color: rgb(240, 240, 250);
+}
+.nav a {
+    color:rgb(11, 8, 156);
+    
+    
+    padding: 14px 16px bold;
+    margin: auto 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.nav a:hover{
+    
+    background-color: rgb(32, 238, 221);
+    text-decoration: underline;
+    padding; 20px;
+    
+    
+    
+}
+
+
+
+
+
+
+
+ 
+    
+
+
+.titulo1{
+    text-align: center;
+    margin: 25px 0 ;
+}
+
+.logo{ 
+    grid-area: auto;
+    height: 80px;
+    width: 130px;
+       
+    }
+
+.minist{
+   background-image: url(../assets/img/ministerioind.jpg);
+   
+   background-size: cover;
+   height: 290px;
+   background-position: 80%;
+
+}
+
+.minist h3, .minist p{ 
+    color: whitesmoke;
+text-align: center;
+}
+
+.minist h3{
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.minist p{
+    font-weight: 350;
+    font-size: 30px;
+}
+
+section p{
+    padding: 10px;
+}
+
+footer{
+    height: 10vh;
+    width: 80%;
+    display: inline
+}
+
+footer h2{
+    display: inline;
+    margin: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
