@@ -5,7 +5,7 @@
 }
 
 
-.border{ border: 30px solid}
+.border{ border: 10px solid}
 .nav {
     overflow: hidden;
 }  
@@ -20,7 +20,7 @@
 .nav-item:hover{
     
     background-color: rgb(11, 8, 156);
-    padding; 20px;
+    padding: 10px;
    
 }
 .logo{
@@ -41,6 +41,12 @@
     #info { 
         width:90% !important;
     }
+    .servicio-fila {
+        width:90% !important;
+        text-align:center;
+
+    }
+
  }  
 
 
